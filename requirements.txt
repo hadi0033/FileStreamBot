@@ -1,7 +1,6 @@
 pyrogram
 tgcrypto
 aiohttp
-python-3.9.7
 python-dotenv
 motor
 aiofiles
